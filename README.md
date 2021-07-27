@@ -3,4 +3,4 @@ A simple Autoit program to call a whatnameyouwanto.bat from whatnameyouwanto.exe
 
 Simply rename GenericLauncher.exe GenericLauncher.bat to what you need.    Then
 edit the .bat to set locally the environment variables. Often this is enough to
-make an application portable. 
+make an application portable. You must keep the .exe and the .bat with the same filename.
